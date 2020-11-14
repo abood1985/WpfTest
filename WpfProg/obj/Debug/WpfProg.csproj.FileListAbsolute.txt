@@ -26,3 +26,33 @@ D:\C# prog\WpfProg\WpfProg\bin\Debug\MaterialDesignThemes.Wpf.pdb
 D:\C# prog\WpfProg\WpfProg\bin\Debug\MaterialDesignThemes.Wpf.xml
 D:\C# prog\WpfProg\WpfProg\obj\Debug\TreeUI.g.cs
 D:\C# prog\WpfProg\WpfProg\obj\Debug\TreeUI.baml
+D:\CashClick\WpfProg\bin\Debug\WpfProg.exe.config
+D:\CashClick\WpfProg\bin\Debug\WpfProg.exe
+D:\CashClick\WpfProg\bin\Debug\WpfProg.pdb
+D:\CashClick\WpfProg\bin\Debug\EntityFramework.dll
+D:\CashClick\WpfProg\bin\Debug\EntityFramework.SqlServer.dll
+D:\CashClick\WpfProg\bin\Debug\MaterialDesignColors.dll
+D:\CashClick\WpfProg\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\CashClick\WpfProg\bin\Debug\EntityFramework.xml
+D:\CashClick\WpfProg\bin\Debug\EntityFramework.SqlServer.xml
+D:\CashClick\WpfProg\bin\Debug\MaterialDesignColors.pdb
+D:\CashClick\WpfProg\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\CashClick\WpfProg\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\CashClick\WpfProg\obj\Debug\WpfProg.csprojAssemblyReference.cache
+D:\CashClick\WpfProg\obj\Debug\MainWindow.g.cs
+D:\CashClick\WpfProg\obj\Debug\TreeUI.g.cs
+D:\CashClick\WpfProg\obj\Debug\w1.g.cs
+D:\CashClick\WpfProg\obj\Debug\App.g.cs
+D:\CashClick\WpfProg\obj\Debug\WpfProg_Content.g.cs
+D:\CashClick\WpfProg\obj\Debug\WpfProg_MarkupCompile.cache
+D:\CashClick\WpfProg\obj\Debug\WpfProg_MarkupCompile.lref
+D:\CashClick\WpfProg\obj\Debug\MainWindow.baml
+D:\CashClick\WpfProg\obj\Debug\TreeUI.baml
+D:\CashClick\WpfProg\obj\Debug\w1.baml
+D:\CashClick\WpfProg\obj\Debug\WpfProg.g.resources
+D:\CashClick\WpfProg\obj\Debug\WpfProg.Properties.Resources.resources
+D:\CashClick\WpfProg\obj\Debug\WpfProg.csproj.GenerateResource.cache
+D:\CashClick\WpfProg\obj\Debug\WpfProg.csproj.CoreCompileInputs.cache
+D:\CashClick\WpfProg\obj\Debug\WpfProg.csproj.CopyComplete
+D:\CashClick\WpfProg\obj\Debug\WpfProg.exe
+D:\CashClick\WpfProg\obj\Debug\WpfProg.pdb

@@ -4,15 +4,15 @@
 winexe
 C#
 .cs
-D:\CashClick\WpfProg\obj\Debug\
+D:\CashClick\WpfProg\obj\Release\
 WpfProg
 none
 false
-DEBUG;TRACE
+TRACE
 D:\CashClick\WpfProg\App.xaml
 31133686745
 21750853300
-15-172816544
+14-725202741
 20-284197013
 MainWindow.xaml;TreeUI.xaml;w1.xaml;
 
